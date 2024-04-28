@@ -53,7 +53,7 @@ List any software or tools that need to be installed before running the project.
 1. Clone the repository:
 
   
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Kishan-Sharma001/Project_Management_System_Assignment
 2.Navigate to the project directory:
 
 
